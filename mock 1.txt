@@ -1,0 +1,574 @@
+
+Interviewer: Kalaivani K
+Questions Asked:
+Can you explain your project in detail?
+How did you execute your project?
+What improvements can be made to your project?
+Which Spring Boot version did you use in your project?
+Which JDK version did you use?
+Why are Lombok annotations required in your project?
+What are HTTP Status Codes, and which ones did you use?
+Why did you not use STS shortcuts?
+For how long have you been using Spring Tool Suite (STS)?
+
+
+Interviewer: Kalaivani K
+Questions Asked:
+Can you explain your project?
+How do you execute your project?
+Which Spring Boot version did you use?
+What annotations did you use in your project?
+Can you explain the working flow of your application?
+Explain each keyword used in your code.
+Can you show and explain the running output of your application in Postman?
+
+
+Interviewer: Kalaivani K
+Questions Asked:
+Can you explain your project in detail?
+Which Spring Boot version did you use?
+Which annotations did you use in your project?
+Can you explain the working flow of the application?
+What is the purpose of each keyword used in your project?
+Can you demonstrate and explain the Postman output of your application?
+
+
+
+Interviewer: Tathagata Ghosh
+Questions Asked:
+How is Spring Framework developed?
+Can you explain the concept of Spring Development?
+What is String Pool?
+How does Spring internally manage object creation and lifecycle?
+
+
+Interviewer: Tathagata Ghosh
+Questions Asked:
+Can you explain how Spring Framework was developed?
+What is the concept of Spring Development, and why was Spring introduced?
+What is Spring Pool?
+Why do we store passwords in the application.properties file`?
+What are annotations in Spring?
+Why are annotations important in Spring applications?
+How does Spring use annotations internally?
+
+
+
+INTERVIEWER: Sonali Somal 
+
+Questions: 
+
+Mostly from project 
+
+what are the spring boot exceptions 
+
+what is Global Exception Handler 
+
+what are the Design pattern you used 
+
+explain @Transactional 
+
+explain about your project 
+
+Http methods 
+
+@restcontrollerAdvice and @controllerAdvice 
+
+why you choosed these modules Only 
+
+Explain about JpaRespository 
+
+what is use of Builder  
+
+XML file 
+
+service,controll,Repository 
+
+explain java21 features 
+
+spring boot starter parent 
+
+NoArgsConstructor, AllArgsConstrutor, RequiredArgsConstructors 
+
+@Slf4j 
+
+--------------------------------------------------------------------------------------------- 
+
+ 
+ 
+
+Interviewer: Kalaivani K 
+
+1.  Overview about Project 
+
+2 .What is the purpose of NoArgsContructor annotation in Model code. 
+
+3. what are the validation you have used for project. 
+
+4. All questions are about my project business logic and controller  
+
+-------------------------------------------------------------------------------------------------------------- 
+
+
+Interviewer: Rakesh Kumar 
+
+1.Introduction 
+
+2.  Overview about Project 
+
+3. what are the validation you have used for project. 
+
+4. All questions are about my project business logic and controller  
+
+-------------------------------------------------------------------------------------------------------------- 
+
+
+Interviewer:- Kalaivani K 
+
+1.explain flow of project 
+
+2.Annotation  
+
+3.Mapping 
+
+4.SQL 
+
+ ------------------------------------------------------------------------------------------------------------- 
+
+
+INTERVIEWER: Sonali Somal 
+
+Questions: 
+
+Mostly from project 
+
+what is Global Exception Handler 
+
+explain @Transactional 
+
+project base question, explain all packages, xml file, version, git, service logic, jpa repository, sql database, query, annotation 
+
+  
+
+ ------------------------------------------------------------------------------------------------------------- 
+
+
+Interviewer: Kalaivani K 
+
+Overview about Project 
+
+Explain all packages 
+
+Model 
+
+ResponseEntity 
+
+Statuscode 
+
+DTO 
+
+helper Method 
+
+mapping 
+
+exception 
+
+file handling 
+
+ 
+
+
+ 
+ 
+Interviewer Name: Rana Ranjeeth Singh
+ 
+Questions:
+ 
+self intro
+project
+Authentication vs Authorization
+what is Web API? (what protocol it uses)
+HTTP is stateless or stateful
+What is JIT?
+what is Grabage Collection?
+how objects are created in Java?
+Stack vs Heap ? which is faster stack or heap?
+What is JVM?
+what is method overloading?
+methods with same parameters but different return type, is it overloading, which error will it give?
+what is runtime polymorphism?
+Primary key vs unique key
+primary key creates which index?
+what are the different types of indexes?
+Joins
+Cross join
+Table1 has 5 records ,table2 has 3 records, no. of records in table1 * table2?
+Table1 has 5 records ,table2 has 0 records, no. of records in table1 * table2?
+What is Trigger?
+Can we call trigger from stored procedure?
+what ORM you implemented?
+what is hibernate?
+What is class loader?
+Access modifiers
+table, Table variable, temp table (syntax)
+ 
+Interviewer: Rana Ranjeeth Singh
+ 
+What is the status code for a successful (OK) HTTP response?
+What is the difference between PUT and PATCH methods?
+What is an API?
+What is a REST API and which protocol does it use?
+What is HTTP?
+What is the difference between a primary key and a unique key?
+How are indexes created for primary keys and unique keys?
+What are indexes in a database?
+Can we overload a static method in Java?
+Can we override a static method in Java?
+What are SQL joins?
+Explain try, catch, and finally blocks.
+What is a stack and what is a queue?
+What is the difference between stack memory and heap memory?
+What is runtime polymorphism?
+What is compile-time polymorphism?
+What are design patterns?
+Explain the Singleton design pattern (Creational).
+Explain the Adapter design pattern (Structural).
+Explain the Observer design pattern (Behavioral).
+Sql self join query
+ 
+ 
+INTERVIEWER : Rana Ranjeet Singh
+ 
+What is the difference between PUT and PATCH methods?
+difference between fetch. EAGER fetch.lazy
+What is the difference between a primary key and a unique key?
+How are indexes created for primary keys and unique keys?
+Explain try, catch, and finally blocks.
+Polymorphism and types?
+Can we overload main method?
+methods with same parameters but different return type, is it overloading, which error will it give?
+what is delegation?
+What are design patterns?
+Explain the Singleton and which design pattern?
+Explain the Adapter and which design pattern?
+Explain the Observer and which design pattern?
+What are SQL joins?
+Sql self join query
+Cross join
+Table1 has 5 records ,table2 has 3 records, no. of records in table1 * table2?
+Table1 has 5 records ,table2 has 0 records, no. of records in table1 * table2?
+What is Trigger and types?
+Can we call trigger from stored procedure?
+table, Table variable, temp table (syntax)
+ 
+ 
+ 
+ 
+ 
+Ranjeet Singh Rana (Interviewer)
+ 
+Introduce Your self
+what is polymorphism
+what is compile time polymorphism
+what is run time polymorphism
+what is join
+what are types of join
+what are self join 
+what is cross join
+Difference between Primary key and unique key
+what is Jit 
+what is rest api
+what protocol api follow 
+what are the principle of api
+what is stack and heap memory which oneis faster
+what is method overloading
+ 
+Table1 has 5 records ,table2 has 3 records, no. of records in table1 * table2?
+ 
+Table1 has 5 records ,table2 has 0 records, no. of records in table1 * table2?
+ 
+What is Trigger?
+Can we call trigger from stored procedure?
+What are design patterns?
+explain the types of design pattern
+what is finally keyword
+ 
+Any frontend part you are working on
+ 
+at the end focus cloud aws
+ 
+ 
+Interviewer name - Rakesh Kumar
+ 
+questions - 1) Introduction
+                   2) Project Explanation
+                   3) How's the flow in controller
+                   4) Diff between put & patch
+                   5) SpringBoot annotations
+                   6) What is @componantScan
+                   7) What are loggers
+                   8) Java 8 features
+ 
+ 
+ 
+Interviewer Name : Ranjeet Singh Rana
+ 
+self intro
+project
+Stack vs Heap ? which is faster stack or heap?
+what is method overloading?
+methods with same parameters but different return type, is it overloading, which error will it give?
+what is runtime polymorphism?
+what is compile time polymorphism?
+Primary key vs unique key
+Joins
+Cross join
+Table1 has 5 records ,table2 has 3 records, no. of records in table1 * table2?
+Table1 has 5 records ,table2 has 0 records, no. of records in table1 * table2?
+What is difference between List and ArrayList?
+what is self join?
+Design patterns
+difference between fetch. EAGER fetch.lazy
+what is delegation?
+ 
+ Interviewer Name: Karthikeyan Krishnamoorthi
+ 
+Questions:
+ 
+Project Explanation
+END TO END FLOW OF PROJECT
+SpringBoot annotations
+CORE JAVA 
+hash set 
+linked list
+collections in java 
+
+
+
+
+Ashish dudhmal
+1.Tell me about your project
+2.where is interface in your project
+3. show your project in API
+4. Tell your project flow
+5. Java 8 version
+6. Lambda function
+7.solid principle
+8. Show last 7 days report
+9.which type of injection used
+10.What is JPA repository
+11.which type of inheritance is used in repository
+12. Which version of java You are using
+13. What is functional interface
+14. Custome exception
+15.checked vs unchecked exception
+16. Which type of exception u are using
+17.bean scope
+18.types of bean scope
+ 
+Aishish Dudhmal
+ 
+Solid Principles
+which solid principle you used in your peojects
+explain @springbootApplication?
+Project flow
+use of annotations
+component vs service?
+if database is down then which error cause and how to avoid it
+git use in project how and which types of commands, how to manage conflicts?
+Ritu Hemnani
+ 
+1.How to create maven project ?
+2.How to connect database (MySQL) to java application. ?
+3.What is @Entity ?
+4.Why DTO is Used ?
+5.PATCH & PUT mapping difference.
+6.How exactly entity class fields stored in database ?
+ 
+ 
+Arif Jamal
+ 
+-Write a program to print Frequency Of characters in a string and its Repeating Characters
+-What is Singleton and how do you implement it in java? and why it is used?
+-IOC in detail how it works
+-starters,How it helps project and working of it..
+- what are the predefined starters are available when creating a project and name some starters apart from them and its usage
+-Cache? and how it is implemented in java and examples what its usage.?
+ 
+ 
+Ambica Golla
+explain project
+authorisation and authentication
+pom.xml
+where u use interface in your project
+inheritance vs abstraction
+DTO ,Model
+what is JWT 
+how you use security
+what is primary and unique key
+ 
+ 
+Ambica Golla
+Explain Controller service and repository
+What is dto
+Difference between authentication and authorization,
+How a JWT token is created
+D/w pom.xml and application. Properties
+Maven command to install dependencies
+What is spring starter and spring starter parent
+Difference between truncate and drop
+How you have implemented restful API's in your project
+How many types of exception handling 
+How you have handled exceptions in your project
+What is spring
+What is difference between Checked and unchecked Exceptions
+ 
+ 
+*Ambica golla*
+ 
+ 
+-Explain package (controller,dto...pom.xml)
+-Diff b/w authentication and Authorization
+-What kind of authentication is used in your project?
+-What Authorization used?
+-Briefly explain about jwt token.
+-What is the default token expression tag?
+-Diff b/w function and stored procedure.
+-How did u connect the database in your project.
+-Show repository implementation.
+-Show main cls in the project.
+-Tell about DML operation .
+-Write a query to get top 5 salary.
+-Types of joins.
+-What is CTA in sql?
+-What is local templable and global templable .
+-How to create a temporary table.
+
+
+Interviewer Name- Sonali Samal 
+
+Questions: 1)Introduction 
+
+        	     2)Project Overview 
+
+     	   3)What is @RestController 
+
+                  4)Explain flow of Project and Your Module 
+
+   5)@Valid use 
+
+   6)Types of Exception  
+
+   7)Exception use in my Project 
+
+   8)Generate Value 
+
+   9)@Service and @Repository 
+
+   10)use of jpaRepository 
+
+   11)Lombok and @Data annotation 
+
+ 
+
+
+
+Evaluator - Ambica Gola. 
+
+Give me project overview. 
+
+What is authentication? 
+
+What type of security you used in your project?  
+
+What is interface? 
+
+ 
+
+
+
+Evaluator name:- Ambica golla 
+
+Final year project and role in it 
+
+Why are we using java 
+
+Difference between abstraction and interface 
+
+flow of project 
+
+jwt authentication 
+
+difference between authorization and authentication 
+
+ 
+
+ 
+ 
+
+Interviewer name- Ambica Golla 
+
+Questions- 
+
+1 explain all oops concepts 
+
+2 difference between interface and abstract class 
+
+3 difference between authentication and authorization 
+
+4 how jwt works 
+
+5 how do you implement jwt in your project 
+
+6 project workflow 
+
+7 types of polymorphism and its explanation 
+
+8 types of exception and its explanation 
+
+ 
+
+
+
+Interviewer name - Ambica Golla 
+
+1.Introduction 
+
+2.OOPs Concept 
+
+3.Difference b/w Abstraction and Interface 
+
+4.Show Abstraction and Interface in your project 
+
+5.JPA repository 
+
+6.Authentication and Authorization 
+
+7.What is JWT, Singleton 
+
+ 
+
+
+
+Interviewer Name:- Ashish Dudhmal 
+
+Questions:-  
+
+Introduce your self. 
+
+Project workflow 
+
+Every annotation used in project , And there alternative. 
+
+Which java version are you using and why? 
+
+Solid Principles? and which one is in your project? 
+
+Java 8 features and which are being used in your project? 
+
+  
+
+ 
+
+ 
+ 
